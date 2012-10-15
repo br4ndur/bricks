@@ -1,0 +1,7 @@
+#game { width: 100%; height: 100%; background-color:#fff; margin:0 auto; }
+#game:-webkit-full-screen { width: 100%; height: 100%; }
+#game:-moz-full-screen { width: 100%; height: 100%; }
+#game:-ms-full-screen { width: 100%; height: 100%; }
+#game:-o-full-screen { width: 100%; height: 100%; }
+#game:full-screen { width: 100%; height: 100%; }
+#bricks {border: #000 solid 2px;}
